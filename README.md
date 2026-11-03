@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README — Evaluación
 
 > **Curso:** ALGORITMO Y ESTRUCTURA DE DATOS BASADOS EN INTELIGENCIA ARTIFICIAL (SRM)
@@ -72,3 +73,6 @@ Todos los integrantes deben participar en la exposición con sus cámaras prendi
 ---
 
 **Última actualización:** [DD/MM/AAAA]
+=======
+"# PA3" 
+>>>>>>> 4f7e77ed763f0f334bae72a9f904c99c4dd8bee4
