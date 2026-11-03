@@ -1,8 +1,8 @@
 # README — Evaluación
 
-> **Curso:** PROGRAMACION WEB - II  
-> **Código:** 30690  
-> **Evaluación:** [PA1 / PA2 / PA3 / PA4 / EI]  
+> **Curso:** ALGORITMO Y ESTRUCTURA DE DATOS BASADOS EN INTELIGENCIA ARTIFICIAL (SRM)
+> **Código:** 4682  
+> **Evaluación:** [PA3]  
 > **Equipo:** [NOMBRE O NÚMERO]  
 
 ## 1. Integrantes
