@@ -1,7 +1,7 @@
 > **Curso:** ALGORITMO Y ESTRUCTURA DE DATOS BASADOS EN INTELIGENCIA ARTIFICIAL (SRM)
 > **Código:** 4682  
 > **Evaluación:** [PA3]  
-> **Equipo:** [NOMBRE O NÚMERO]  
+> **Equipo:** [2]  
 
 ## Integrantes
 
@@ -9,7 +9,7 @@
 | :--- | :--- |
 | **JAN PAOLO ARELLANO BAILON** | Actividad 2 |
 | **CARLOS AARON PEREZ SCHARFF** | Actividad 3 |
-| Nombre 3 | Aporte |
+| **ALAN LLALLIHUAMAN CALDERON** | Actividad 1 |
 | **Oscar Maravi Falcon** | Actividad 4 |
 
 ## Matriz de participación
