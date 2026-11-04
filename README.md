@@ -8,7 +8,7 @@
 | Integrante | Rol | Aporte principal |
 |---|---|---|
 | [JAN PAOLO ARELLANO BAILON] | [Actividad 2] |
-| [Nombre 2] | [Aporte] |
+| [CARLOS AARON PEREZ SCHARFF] | [Actividad 3] |
 | [Nombre 3] | [Aporte] |
 | [Oscar Maravi Falcon] |  [Actividad 4] |
 
@@ -17,7 +17,7 @@
 | Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
 |---|---|---|---|---|---|
 | [JAN PAOLO ARELLANO BAILON] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
-| [Nombre 2] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [Carlos Aaron Perez Scharff] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [ALAN LLALLIHUAMAN CALDERON] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [OSCAR MARAVI FALCON] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
