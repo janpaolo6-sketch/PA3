@@ -10,7 +10,7 @@
 | [Nombre 1] | [Rol] | [Aporte] |
 | [Nombre 2] | [Rol] | [Aporte] |
 | [Nombre 3] | [Rol] | [Aporte] |
-| [Nombre 4] | [Rol] | [Aporte] |
+| [Oscar Maravi Falcon] | [Rol] | [Actividad 4] |
 | [Nombre 5] | [Rol] | [Aporte] |
 
 ## Matriz de participación
@@ -20,7 +20,7 @@
 | [Nombre 1] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 | [Nombre 2] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 | [ALAN LLALLIHUAMAN CALDERON] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
-| [Nombre 4] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [OSCAR MARAVI FALCON] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 
 ## Video de exposición
