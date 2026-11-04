@@ -20,11 +20,11 @@
 | [Carlos Aaron Perez Scharff] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [ALAN LLALLIHUAMAN CALDERON] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [OSCAR MARAVI FALCON] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
-| [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [Sergio X] | [No] | [No] | [No] | [No] | [No] |
 
 ## Video de exposición
 
-**Video público de YouTube:** [PEGAR AQUÍ EL ENLACE]
+**Video público de YouTube:** [https://youtu.be/wQZToiqG5Ho]
 
 Todos los integrantes deben participar en la exposición con sus cámaras prendidas y explicar el procedimiento, la solución desarrollada y las decisiones tomadas.
 
