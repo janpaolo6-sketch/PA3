@@ -5,7 +5,7 @@
 
 ## Integrantes
 
-| Integrante | Rol | Aporte principal |
+| Integrante | Rol |
 |---|---|---|
 | [JAN PAOLO ARELLANO BAILON] | [Actividad 2] |
 | [CARLOS AARON PEREZ SCHARFF] | [Actividad 3] |
